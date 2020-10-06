@@ -1,0 +1,3 @@
+# Python Web Job Scraper
+
+##### Do you hate scanning multiple job boards? SAME. That is why I built this simple Python Web Scraper which makes use of Beautiful Soup to search my two favorite job boards: Indeed and Monster to pull relevant job titles by location. This command line application takes a job title, city, and state. Then it srapes these two websites HTML and grabs the relevant job postings. 
